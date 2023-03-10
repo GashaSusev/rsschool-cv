@@ -5,3 +5,5 @@
   * ___phone number:___ hahaha again I would tell nothing
 ## self info:
 I am 18 years old student of __NUST MISIS__ and I am gonna to become js developer
+## hobbies:
+I like to play the guitar
